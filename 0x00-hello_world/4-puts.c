@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 /**
  * main - this is the main function
@@ -8,6 +8,6 @@
 
 int main(void)
 {
-	puts("\"Programming is like building a multilinggual puzzle);
+	puts("\"Programming is like building a multilinggual puzzle");
 	return (0)
 }
