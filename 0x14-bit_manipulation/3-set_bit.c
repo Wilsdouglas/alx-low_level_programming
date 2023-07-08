@@ -7,7 +7,6 @@
  *
  * Return: 1 for success, -1 for failure
  */
-
 int set_bit(unsigned long int *n, unsigned int index)
 {
 	if (index > 63)

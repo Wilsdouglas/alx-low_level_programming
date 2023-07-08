@@ -20,4 +20,3 @@ int main(void)
     printf("%u\n", n);
     return (0);
 }
-
